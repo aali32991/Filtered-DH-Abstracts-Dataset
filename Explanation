@@ -1,0 +1,7 @@
+*Explanation*
+
+I applied the following filters to the dh_conferences_works dataset:
+- I changed the "conference_year" into the date formate.
+- I used the "text filter" on "full_text" to only look for works that include "Python".
+- I filterd the "work_type" to include only "workshop/tutorial".
+- Finally, I used the "text filter" tool to  refine the "topics" that only include "data mining".
